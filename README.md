@@ -1,3 +1,6 @@
+<img width="1333" height="549" alt="Captura de tela 2026-10-24 121244" src="https://github.com/user-attachments/assets/5e1d639c-0c87-4f3c-a9ff-3517eb747978" />
+<img width="1320" height="546" alt="Captura de tela 2026-10-24 121219" src="https://github.com/user-attachments/assets/9c0ff1e5-272c-4077-a0b0-12c4ef40142d" />
+<img width="1157" height="497" alt="Captura de tela 2026-10-24 121209" src="https://github.com/user-attachments/assets/b7ef2715-a1fa-42c6-b09c-ac2183ff80ec" />
 Assistente de Investimentos com RPA, n8n e IA Generativa
 Projeto desenvolvido como parte do desafio "Criando um Assistente de Investimentos com RPA e IA Generativa", da DIO (Digital Innovation One).
 
